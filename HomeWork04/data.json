@@ -1,0 +1,24 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "name": "Name 1",
+            "description": "PC user 1"
+        },
+        {
+            "id": 2,
+            "name": "Name 2",
+            "description": "PC user 2"
+        },
+        {
+            "id": 3,
+            "name": "Name 3",
+            "description": "PC user 3"
+        },
+        {
+            "id": 4,
+            "name": "Name 4",
+            "description": "PC user 4"
+        }
+    ]
+}
